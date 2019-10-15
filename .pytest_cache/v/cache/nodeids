@@ -1,0 +1,21 @@
+[
+  "tests/test_db.py::test_get_close_db",
+  "tests/test_db.py::test_init_db_command",
+  "tests/test_factory.py::test_config",
+  "tests/test_factory.py::test_hello",
+  "tests/test_issue.py::test_index",
+  "tests/test_issue.py::test_create",
+  "tests/test_issue.py::test_update",
+  "tests/test_issue.py::test_delete",
+  "tests/test_mapobject.py::test_update",
+  "tests/test_mapobject.py::test_updatefailedcondition",
+  "tests/test_metric.py::test_index",
+  "tests/test_metric.py::test_create",
+  "tests/test_metric.py::test_update",
+  "tests/test_metric.py::test_delete",
+  "tests/test_product.py::test_index",
+  "tests/test_product.py::test_create",
+  "tests/test_product.py::test_update",
+  "tests/test_product.py::test_delete",
+  "tests/test_search.py::test_create"
+]
